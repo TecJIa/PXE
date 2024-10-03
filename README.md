@@ -1,4 +1,4 @@
-<img width="523" alt="image" src="https://github.com/user-attachments/assets/ada20c5d-d890-4d5b-8228-da7c3f92858f"># homework-pxe
+# homework-pxe
 
 Описание домашнего задания
 ---
@@ -280,5 +280,5 @@ systemctl restart apache2
 
 ![images2](./images/pxe_20.png)
 ![images2](./images/pxe_21.png)
-
+![images2](./images/pxe_22.png)
 
