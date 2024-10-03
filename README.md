@@ -278,6 +278,5 @@ systemctl restart apache2
 
 **Перезапускам машину клиента и ждем**
 
-![images2](./images/pxe_20.png)
 ![images2](./images/pxe_21.png)
 
